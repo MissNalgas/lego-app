@@ -32,4 +32,10 @@ The **detail** screen displays a description of the item the user selected. It w
 - The mock service from *Postman* stopped working due to a limit on the number of requests, so I made a mock service that returns the same objects and used that instead.
 - Since some of the images are pretty big and would not work properly on mobile devices I made a service[^1] that proxies, resize, and cache the images. This service is used across all the images in the application.
 
-[^1]: What this service does is: downloads the image from the provided url, scales it down, adds a white background and returns the new image. The result images are then chached in memory for future retrievals.
+[^1]: What this service does is: downloads the image from the provided url, scales it down, adds a white background and returns the new image. The result images are then cached in memory for future retrievals.
+
+## TODO
+- Add unit testing and eslint
+
+## License
+Distributed under the MIT License. See LICENSE.txt for more information.
