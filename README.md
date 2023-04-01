@@ -21,6 +21,9 @@ To run on a device you have to download the Expo App and scan either of the foll
 
 ## About the project
 
+### Themes
+The application will use the predefined theme of the device `ligth` or `dark`. To change the theme, change it on the device settings.
+
 ### Authentication
 The project uses Firebase to handle authentication, you can either create an account or access the store using an existing one. The session will stay open after closing the app. You can terminate the session using Firebase Console
 
