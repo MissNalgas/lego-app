@@ -7,6 +7,18 @@ LEGO store application, the user can authenticate and buy the LEGO figurines the
 
 > Run expo using `yarn start`
 
+To run on a device you have to download the Expo App and scan either of the following QR codes.
+
+### Android
+![android](https://qr.expo.dev/eas-update?updateId=c5db22d0-2a0c-4219-b6ce-177b24d0a685&appScheme=exp&host=u.expo.dev)
+
+[exp://u.expo.dev/update/c5db22d0-2a0c-4219-b6ce-177b24d0a685](exp://u.expo.dev/update/c5db22d0-2a0c-4219-b6ce-177b24d0a685)
+
+### Ios
+![ios](https://qr.expo.dev/eas-update?updateId=7a0be0f6-1f43-4ac5-a46e-cc99791b6f37&appScheme=exp&host=u.expo.dev)
+
+[exp://u.expo.dev/update/7a0be0f6-1f43-4ac5-a46e-cc99791b6f37](exp://u.expo.dev/update/7a0be0f6-1f43-4ac5-a46e-cc99791b6f37)
+
 ## About the project
 
 ### Authentication
