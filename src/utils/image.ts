@@ -6,5 +6,5 @@
  * @returns URL of the proxy
  */
 export function proxy(url: string) {
-    return `https://lnk.mssnapps.com/api/image-proxy?img=${url}&jpeg=true&width=600&height=400`;
+    return `https://lnk.mssnapps.com/api/image-proxy?img=${url}&jpeg=true&width=600&height=400&bg=white`;
 }
